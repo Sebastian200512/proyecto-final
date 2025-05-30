@@ -1,4 +1,4 @@
-# 📰 Proyecto Final - Aplicación de Noticias
+# 📰 Proyecto Final - NEWS NOW Aplicación de Noticias
 
 Aplicación móvil desarrollada en React Native con Expo para consultar y explorar noticias actualizadas de distintas categorías y medios.
 
