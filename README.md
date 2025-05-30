@@ -24,9 +24,9 @@ Aplicación móvil desarrollada en React Native con Expo para consultar y explor
 
 Aquí algunas capturas del funcionamiento de la aplicación:
 
-| Pantalla Principal                      | Búsqueda en tiempo real                     |
+| Pantalla Principal                      | Descripcion de la Noticia                    |
 | -------------------------------------- | ------------------------------------------ |
-| ![Pantalla Principal](./assets/home.png) | ![Pantalla Búsqueda](./assets/search.png) |
+| ![Pantalla Principal](./assets/pantallaPrincipal.png) | ![Descripcion Noticia](./assets/descripcion-noticia.png) |
 
 ---
 
